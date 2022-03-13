@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to bottom, #00ff00 0%, #9900ff 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #9900ff;
+    text-align: center;
+    border: 5px solid green;
+}
+
+h3 {
+    color: #9900ff;
+}
+
+img {
+    height: 64px;
+    width: auto;
+}
+
