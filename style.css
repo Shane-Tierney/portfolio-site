@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(to bottom, #00ff00 0%, #9900ff 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #9900ff;
+    text-align: center;
+    border: 5px solid green;
+}
+
+h3 {
+    color: #9900ff;
+}
+
+img {
+    height: 64px;
+    width: auto;
+}
+
+/* social media icons styling */
+svg {
+    width: 32px;
+    height: 32px;
+    fill: #00ff00;
+}
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+.fa-linkedin:hover, .fa-twitch:hover {
+    color: #008000;
+}
+.fab {
+    color: #000000;
+}
+/* footer styling */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
